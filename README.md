@@ -1,3 +1,6 @@
+
+![Babar](https://github.com/BABAR-KHUHRO/babar-khuhro/assets/51516104/efbe7b98-32ac-4443-879f-cfd80f9a8b19)
+
 <h1 align="center">Hi 👋, I'm Babar Khan</h1>
 <h3 align="center">A passionate Fullstack developer from Pakistan</h3>
 

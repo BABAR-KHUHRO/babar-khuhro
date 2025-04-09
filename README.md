@@ -12,6 +12,7 @@
 - 📫 How to reach me **babarkhan_25@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
+
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/babar-khan-853191163/) 
 
 

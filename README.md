@@ -8,8 +8,9 @@
 
 <h3 align="left">Connect with me:</h3>
 
+
+<p align="left">
 <a href="https://www.linkedin.com/in/babar-khan-853191163/" target="blank">
-<p align="left"> 
 <img align="center" src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/babar-khan-53755a262/" height="30" width="40" />
 </a>
 </p>

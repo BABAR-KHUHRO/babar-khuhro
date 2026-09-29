@@ -9,8 +9,8 @@
 
   <!-- Reliable Profile Visitor Counter -->
   <p>
-<img src="https://img.shields.io/endpoint?url=https://hits.dwyl.com/babar-khuhro/babar-khuhro.json&color=blueviolet&style=for-the-badge&label=PROFILE%20VIEWS" alt="Profile Views" />  </p>
-
+  <img src="https://komarev.com/ghpvc/?username=babar-khuhro&color=79589f&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+</p>
   <!-- Quick Action Badges -->
   <p>
     <a href="https://babar-khuhro.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>

@@ -10,7 +10,7 @@
     <img src="https://komarev.com/ghpvc/?username=babar-khuhro&color=blueviolet&style=flat-square&label=Profile+Views" alt="babar-khuhro profile views" />
   </p>
 
-  <!-- Quick Badges -->
+  <!-- Quick Action Badges -->
   <p>
     <a href="https://babar-khuhro.github.io/portfolio/"><img src="https://img.shields.io/badge/Live_Portfolio-Website-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
     <a href="https://www.linkedin.com/in/babar-khan-853191163/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -23,7 +23,7 @@
 ### 🚀 About Me
 
 * 🎓 **Background:** Bachelor of Technology in Mechanical Engineering (**Gold Medalist - 1st Position**).
-* 💻 **Full-Stack Stack:** Proficient in **MERN Stack** (MongoDB, Express, React, Node.js), **React Native (Expo)**, **Python (Django)**, and **PHP (Laravel)**.
+* 💻 **Full-Stack Stack:** Proficient in **MERN Stack** (MongoDB, Express, React, Node.js), **React Native (Expo)**, **Python (Django & Flask)**, and **PHP (Laravel)**.
 * 📜 **Certified Developer:** Professional Certifications from **Meta**, **IBM**, and **Google** in Database Engineering, Full-Stack Software Development, and DevOps.
 * 📱 **Featured Project:** Architected an offline-first mobile engine handling **48,800+ records** using React Native, Expo, and SQLite.
 * 📫 **Contact:** [bk8483300@gmail.com](mailto:bk8483300@gmail.com) | **Phone:** +92 343 3005289
@@ -33,7 +33,7 @@
 ### 🛠️ Tech Stack & Skillset
 
 #### **Frontend & Mobile Development**
-<p left>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="45" height="45"/>
   <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>
@@ -44,7 +44,7 @@
 </p>
 
 #### **Backend & Cloud Microservices**
-<p left>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>
@@ -54,7 +54,7 @@
 </p>
 
 #### **Databases, DevOps & Tools**
-<p left>
+<p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="45" height="45"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="45" height="45"/>
@@ -69,13 +69,13 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babar-khuhro&show_icons=true&theme=default" alt="Babar Khan GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=babar-khuhro&show_icons=true&theme=default" alt="Babar Khan GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babar-khuhro&layout=compact&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=babar-khuhro&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babar-khuhro&theme=default" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=babar-khuhro&theme=default" alt="GitHub Streak" />
 </p>

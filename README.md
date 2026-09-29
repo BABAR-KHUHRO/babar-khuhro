@@ -1,6 +1,8 @@
 <div align="center">
-  <!-- Profile Picture -->
-  <img src="https://github.com/babar-khuhro.png" width="130" height="130" style="border-radius: 50%;" alt="Babar Khan" />
+  <!-- Full-Width Banner Image -->
+  <img src="banner.jpg" alt="Babar Khan Banner" width="100%" style="max-height: 350px; object-fit: cover; border-radius: 10px;" />
+
+  <br /><br />
 
   <h1>Hi 👋, I'm Babar Khan</h1>
   <h3>Full-Stack Web & Mobile Developer | Mechanical Engineering Gold Medalist</h3>
@@ -17,7 +19,6 @@
     <a href="mailto:bk8483300@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
-
 ---
 
 ### 🚀 About Me

@@ -68,13 +68,14 @@
 
 ### 📊 GitHub Analytics
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=babar-khuhro&show_icons=true&theme=radial&hide_border=true" alt="Babar Khan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babar-khuhro&layout=compact&theme=radial&hide_border=true" alt="Top Languages" width="48%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=babar-khuhro&show_icons=true&theme=default" alt="Babar Khan GitHub Stats" />
+</p>
 
-<br />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=babar-khuhro&layout=compact&theme=default" alt="Top Languages" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babar-khuhro&theme=radial&hide_border=true" alt="GitHub Streak" width="97%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=babar-khuhro&theme=default" alt="GitHub Streak" />
+</p>

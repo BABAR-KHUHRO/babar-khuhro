@@ -1,13 +1,15 @@
 <div align="center">
-  <img     src="Babarkhan.jpg" alt="Babar Khan Banner" width="100%"    style="max-height: 250px; object-fit: cover; object-position: center 20%; border-radius: 12px;"  />
+  <!-- Banner image constrained using native HTML height -->
+  <img src="Babarkhan.jpg" alt="Babar Khan Banner" height="250" />
+  
   <br /><br />
 
   <h1>Hi 👋, I'm Babar Khan</h1>
   <h3>Full-Stack Web & Mobile Developer | Mechanical Engineering Gold Medalist</h3>
 
-  <!-- Profile Visitor Counter -->
+  <!-- Reliable Profile Visitor Counter -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=babar-khuhro&color=blueviolet&style=flat-square&label=Profile+Views" alt="babar-khuhro profile views" />
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbabar-khuhro&count_bg=%2379589F&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false" alt="Profile Views" />
   </p>
 
   <!-- Quick Action Badges -->
@@ -17,6 +19,7 @@
     <a href="mailto:bk8483300@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
   </p>
 </div>
+
 ---
 
 ### 🚀 About Me

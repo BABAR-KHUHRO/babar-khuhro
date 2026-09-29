@@ -1,6 +1,6 @@
 <div align="center">
   <!-- Full-Width Banner Image -->
-  <img src="banner.jpg" alt="Babar Khan Banner" width="100%" style="max-height: 350px; object-fit: cover; border-radius: 10px;" />
+  <img src="Babarkhan.jpg" alt="Babar Khan Banner" width="100%" style="max-height: 350px; object-fit: cover; border-radius: 10px;" />
 
   <br /><br />
 

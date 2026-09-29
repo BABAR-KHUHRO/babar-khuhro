@@ -1,10 +1,5 @@
 <div align="center">
-  <img 
-    src="Babarkhan.jpg" 
-    alt="Babar Khan Banner" 
-    width="100%" 
-    style="max-height: 250px; object-fit: cover; object-position: center 20%; border-radius: 12px;" 
-  />
+  <img     src="Babarkhan.jpg" alt="Babar Khan Banner" width="100%"    style="max-height: 250px; object-fit: cover; object-position: center 20%; border-radius: 12px;"  />
   <br /><br />
 
   <h1>Hi 👋, I'm Babar Khan</h1>

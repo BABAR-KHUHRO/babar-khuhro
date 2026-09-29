@@ -1,7 +1,10 @@
 <div align="center">
-  <!-- Full-Width Banner Image -->
-  <img src="Babarkhan.jpg" alt="Babar Khan Banner" width="100%" style="max-height: 350px; object-fit: cover; border-radius: 10px;" />
-
+  <img 
+    src="Babarkhan.jpg" 
+    alt="Babar Khan Banner" 
+    width="100%" 
+    style="max-height: 250px; object-fit: cover; object-position: center 20%; border-radius: 12px;" 
+  />
   <br /><br />
 
   <h1>Hi 👋, I'm Babar Khan</h1>
